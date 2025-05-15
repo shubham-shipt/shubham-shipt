@@ -1,18 +1,31 @@
-<h1>"i am shubham"</h1>
-<p>A passionate for cyberserucity</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.instagram.com/om_singh_213" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="undefinedom" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shubham-shipt&show_icons=true&locale=en&layout=compact" alt="Shubham-shipt" /></p>
+<!-- Animated Name & Title Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D5F1A&height=200§ion=header&text=Shubham&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20|%20Software%20Developer&descAlignY=60&descAlign=50" width="100%"/>
+</div>
+
+<!-- Animated Typing Text -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0D5F1A¢er=true&vCenter=true&width=600&height=100&lines=Hello+World%2C+I'm+Shubham;Cybersecurity+Enthusiast;Software+Developer;C%2FC%2B%2B+Programmer;Python+%26+JavaScript+Developer;Learning+Ethical+Hacking" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Visual Matrix Rain Effect -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</div>
+
+<!-- Terminal-style Introduction -->
+<div align="left">
+
+```bash
+$ whoami
+> shubham@cyberdev:~$ Cybersecurity enthusiast and software developer with a passion for secure coding
+$ ./skills.sh --list-top
+> [Loading complete]: C/C++ | Python | JavaScript | Cybersecurity | AWS | Linux
+$ uname -a
+> CyberOS 5.15.0-ubuntu-amd64 
+$ ps -aux | grep active-projects
+> ACTIVE: Cybersecurity Projects | Web Development | Open-Source Contributions | Learning Ethical Hacking
+$ cat /etc/passwd | grep contact
+> github:shubham-shipt:x:1000:1000:GitHub Profile:/home/shubham:/bin/bash
