@@ -29,3 +29,210 @@ $ ps -aux | grep active-projects
 > ACTIVE: Cybersecurity Projects | Web Development | Open-Source Contributions | Learning Ethical Hacking
 $ cat /etc/passwd | grep contact
 > github:shubham-shipt:x:1000:1000:GitHub Profile:/home/shubham:/bin/bash
+
+
+
+
+
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+
+
+
+
+  
+  
+  
+
+
+
+
+  
+
+
+
+
+  
+    
+  
+
+
+🔐 Technical Arsenal
+
+  
+    
+      
+        
+      
+      
+        
+      
+    
+  
+
+
++ Cybersecurity & Development:
+! Learning Ethical Hacking | Secure Coding | Penetration Testing Basics | Web Security
+
++ Programming Expertise:
+! C/C++ | Python | JavaScript | Bash | Ruby | CSS3
+
++ Tools & Platforms:
+- AWS | Linux | Git | Android Development
+
+👨‍💻 Professional Profile
+I'm Shubham, a cybersecurity enthusiast and software developer driven by a passion for building secure and innovative solutions. My journey involves mastering programming, exploring ethical hacking, and contributing to open-source projects.
+
+🛡️ Focus: Cybersecurity, ethical hacking, and secure software development
+💻 Skills: C/C++, Python, JavaScript, Ruby, AWS, Linux, Android
+🌐 Communities: Active in tech and cybersecurity forums, learning through CTFs and hackathons
+🎓 Learning: Diving deeper into penetration testing, cloud security, and advanced programming
+
+My goal is to create secure systems and contribute to a safer digital world.
+
+
+  
+
+
+💻 Code Sample
+#include <stdio.h>
+int main() {
+    printf("Hello, World! I'm Shubham, passionate about cybersecurity.\n");
+    return 0;
+}
+
+🌐 Technical Stack
+
+
+  🔄 Languages & Tools
+  
+    
+      
+        
+        C
+      
+      
+        
+        C++
+      
+      
+        
+        Python
+      
+      
+        
+        JavaScript
+      
+      
+        
+        Ruby
+      
+    
+    
+      
+        
+        CSS3
+      
+      
+        
+        AWS
+      
+      
+        
+        Linux
+      
+      
+        
+        Bash
+      
+      
+        
+        Git
+      
+    
+  
+
+
+
+
+  🖥️ Development Environment
+  
+    
+      
+        
+        Ubuntu
+      
+      
+        
+        Linux
+      
+      
+        
+        VS Code
+      
+    
+  
+
+
+
+
+  
+
+
+🚀 Featured Projects
+
+  
+  
+    
+  
+  
+    
+  
+
+
+📊 Development Analytics
+
+  
+
+
+📅 Contribution Timeline
+
+  
+
+
+
+
+  
+
+
+🌐 Connect with Me
+
+  
+    
+  
+  
+    
+  
+  
+    
+  
+  
+    
+  
+
+
+
+
+  
+
+```
