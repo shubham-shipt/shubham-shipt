@@ -325,13 +325,13 @@ int main() {
 </div>
 
 <!-- Philosophy with Animated Background -->
-<h3>💭 Philosophy</h3>
+<h3>💭</h3>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100" height="100">
+  <img src="https://media.giphy.com/media/hrLmVMZR8sXUdn9k3r/giphy.gif?cid=ecf05e47409glhgpczgt3b5x5pxt97t2plz34616uek9837b&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400" height="200">
   <blockquote>
     "Security is not a product, but a process and a mindset. It's about understanding the adversary and building systems that remain resilient even when components fail."
   </blockquote>
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100" height="100">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXV3OWdrN2FjbnExc3hnZWtpcGR0OGRtbnN0cXZwN21nYWgxZnZmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SOLL5vaWmuf9k65yYs/giphy.gif" width="400" height="200">
 </div>
 
 <!-- Comprehensive Portfolio with Enhanced Visuals -->
