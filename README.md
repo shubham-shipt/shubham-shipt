@@ -379,9 +379,8 @@ int main() {
 
 <!-- Sanskrit Quote with Stylized Text -->
 <div align="center">
-  <h3 style="font-family: 'Devanagari MT', serif;">
-    यो विश्वति रक्षायाम्, स एव खलु वीरः।<br>
-    अहं शुभम्, साइबरवीरः।
+  <h3 style="font-family: 'Devanagari MT', serif;">।<br>
+     शुभम्, 
   </h3>
 </div>
 
