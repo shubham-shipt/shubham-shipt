@@ -271,10 +271,10 @@ int main() {
 <h3>🚀 Featured Projects</h3>
 
 <div align="center">
-  <a href="https://github.com/shubham-shipt/your-cyber-project">
+  <a href="https://github.com/shubham-shipt/keylog-v6">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=your-cyber-project&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10" />
   </a>
-  <a href="https://github.com/shubham-shipt/your-web-project">
+  <a href="https://github.com/shubham-shipt/Python-Mini-Projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=your-web-project&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10" />
   </a>
 </div>
@@ -286,11 +286,7 @@ int main() {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-shipt&theme=dark&background=0d1117&stroke=0D5F1A&ring=2D8F3A&fire=2D8F3A&currStreakNum=ffffff&sideNums=0D5F1A&currStreakLabel=2D8F3A&sideLabels=0D5F1A&dates=ffffff&border_radius=10" alt="Consistency Metrics" />
 </div>
 
-<!-- Contribution Calendar with Glowing Effect -->
-<h3>📅 Development Timeline</h3>
-<div align="center">
-  <img src="https://ghchart.rshah.org/0D5F1A/shubham-shipt" alt="Contribution Timeline" />
-</div>
+
 
 <!-- GitHub Status Dashboard with Enhanced Visuals -->
 <h3>🔥 Development Analytics</h3>
@@ -374,11 +370,11 @@ int main() {
   </h3>
 </div>
 
-<!-- Hindi Quote with Stylized Text -->
+<!-- Sanskrit Quote with Stylized Text -->
 <div align="center">
   <h3 style="font-family: 'Devanagari MT', serif;">
-    जो सुरक्षा में विश्वास करता है, वही असली योद्धा है।<br>
-    मैं हूँ शुभम, एक साइबर योद्धा।
+    यो विश्वति रक्षायाम्, स एव खलु वीरः।<br>
+    अहं शुभम्, साइबरवीरः।
   </h3>
 </div>
 
