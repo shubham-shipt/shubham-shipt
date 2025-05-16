@@ -2,7 +2,7 @@
 
 <!-- Animated Name & Title Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D5F1A&height=200§ion=header&text=Shubham&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20|%20Software%20Developer&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D5F1A&height=200§ion=header&text=SHUBHAM&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20%20%20%20&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <!-- Animated Typing Text with Cybersecurity Focus -->
