@@ -268,16 +268,23 @@ int main() {
 </div>
 
 <!-- Featured Security Projects with Hover Effects -->
-<h3>🚀 Featured Projects</h3>
+<h3>🚀  Projects</h3>
 
-<div align="center">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <a href="https://github.com/shubham-shipt/keylog-v6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=your-cyber-project&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=keylog-v6&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10" 
+      style="width: 400px; max-width: 90%;" 
+    />
   </a>
   <a href="https://github.com/shubham-shipt/Python-Mini-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=your-web-project&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=Python-Mini-Projects&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10" 
+      style="width: 400px; max-width: 90%;" 
+    />
   </a>
 </div>
+
 
 ## 📊 Analytics Dashboard
 
