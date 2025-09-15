@@ -17715,11 +17715,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/shubham--shipt-23272F?style=flat-pill&logo=github&logoColor=FFD700" alt="GitHub Username" />
   <img src="https://komarev.com/ghpvc/?username=shubham-shipt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Public%20Repos-15+-181717?style=flat-pill&logo=github&logoColor=FFD700" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/Public%20Repos-10+-181717?style=flat-pill&logo=github&logoColor=FFD700" alt="Public Repos" />
   <img src="https://img.shields.io/badge/Private%20Repos-32+-FFD43B?style=flat-pill&logo=github&logoColor=23272F" alt="Private Repos" />
   <img src="https://img.shields.io/badge/Total%20Commits-3k%2B-34A853?style=flat-pill&logo=github&logoColor=fff" alt="Total Commits" />
   <img src="https://img.shields.io/badge/Top%20Language-HTML-E44D26?style=flat-pill&logo=html5&logoColor=fff&labelColor=23272F" alt="Top Language: HTML" />
-  <img src="https://img.shields.io/badge/Active%20Days-365%2F157-FFD700?style=flat-pill&logo=github&logoColor=23272F" alt="Active Days" />
+  <img src="https://img.shields.io/badge/Active%20Days-365%2F256-FFD700?style=flat-pill&logo=github&logoColor=23272F" alt="Active Days" />
   <img src="https://img.shields.io/badge/Commit%20Time-Night%20Owl-23272F?style=flat-pill&logo=github&logoColor=FFD700" alt="Commit Time" />
   <img src="https://img.shields.io/badge/Contribution%20Graph-70%25%20Green-34A853?style=flat-pill&logo=github&logoColor=fff" alt="Contribution Graph" />
   <img src="https://img.shields.io/badge/GitHub%20User%20Since-2024-4B8BBE?style=flat-pill&logo=github&logoColor=fff" alt="GitHub Since" />
