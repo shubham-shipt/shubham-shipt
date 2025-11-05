@@ -201,17 +201,17 @@ g.typingUnderline rect {
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic"> 
   <textPath xlink:href="#descriptionTyping">
-      Leadership, Software Architecture, Development, Science &amp; Technology.
+      
   </textPath>
 </text>
 
 <text x="2" y="12" font-family="Helvetica" font-size=".22em" 
       fill="#AAA" font-weight="bold"> 
-      Hi there!
+      
 </text>
 
 <text x="22" y="12" font-family="Helvetica" font-size=".22em"
       fill="#AAA" font-weight="bold"> 
-      How are you doing?
+      
 </text>
 </svg>
