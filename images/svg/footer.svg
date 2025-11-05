@@ -1,0 +1,126 @@
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<style>
+/* === BASIC SETUP === */
+svg {
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  overflow: visible;
+  background: linear-gradient(to bottom, #0d001a, #1a0033);
+}
+
+/* === UPPER RECTANGLE AREA (EDITABLE TEXT) === */
+rect.headerRect {
+  fill: #1a0033; /* Background color of header box */
+  fill-opacity: 40%;
+  stroke: #8000ff; /* Purple border color */
+  stroke-width: 0.2;
+  filter: drop-shadow(0px 0px 3px #a020f0);
+}
+
+/* === PURPLE WAVES ANIMATION === */
+.wave {
+  animation: wave 3s linear infinite;
+  fill: #4b0082;
+  filter: drop-shadow(0 0 6px #8000ff);
+}
+
+.wave:hover { fill: #7a1cff; }
+
+/* === PURPLE DROPS === */
+.drop {
+  fill: #5a0ca5;
+  stroke: #b266ff;
+  stroke-width: 0.5;
+  animation: drop 8.2s linear infinite;
+  transform: translateY(25px);
+  transform-box: fill-box;
+  transform-origin: 50% 100%;
+  filter: drop-shadow(0 0 3px #a020f0);
+}
+.drop2 { animation-delay: 3s; }
+.drop3 { animation-delay: -2s; }
+.drop4 { animation-delay: 1.7s; }
+.drop5 { animation-delay: 2.7s; }
+.drop6 { animation-delay: -2.1s; }
+
+.gooeff { filter: url(#goo); }
+
+#wave2 { animation-duration: 5s; animation-direction: reverse; opacity: 0.6; }
+#wave3 { animation-duration: 7s; opacity: 0.3; }
+
+/* === ANIMATIONS === */
+@keyframes drop {
+  0% { transform: translateY(25px); }
+  30% { transform: translateY(-10px) scale(.1); }
+  30.001% { transform: translateY(25px) scale(1); }
+  70% { transform: translateY(25px); }
+  100% { transform: translateY(-15px) scale(.1); }
+}
+
+@keyframes wave { to { transform: translateX(-100%); } }
+@keyframes blink { 0% { fill: #b266ff; } 100% { fill: none; } }
+@keyframes underline_move { to { transform: translateX(-39px); } }
+
+/* === TEXT STYLE === */
+text {
+  filter: drop-shadow(0 0 2px #a020f0) drop-shadow(0 0 6px #8000ff);
+}
+</style>
+
+<defs> 
+  <filter id="goo">
+    <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
+    <feColorMatrix in="blur" mode="matrix" values="
+         1 0 0 0 0  
+         0 1 0 0 0  
+         0 0 1 0 0  
+         0 0 0 13 -9" result="goo" />
+    <xfeBlend in="SourceGraphic" in2="goo" />
+  </filter>
+   
+  <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
+</defs> 
+
+<rect class="headerRect" width="70" height="7.3" rx="1" x="20" y="16.8"/>
+
+<use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2"></use> 
+<use id="wave2" class="wave" xlink:href="#wave" x="0" y="0"></use>
+ 
+<g class="gooeff" filter="url(#goo)">
+  <circle class="drop" cx="95" cy="2" r="8.8" />
+  <circle class="drop drop2" cx="35" cy="2.5" r="7.5" />
+  <circle class="drop drop3" cx="26" cy="2.8" r="9.2" />
+  <circle class="drop drop4" cx="14" cy="2" r="8.8" />
+  <circle class="drop drop5" cx="22" cy="2.5" r="7.5" />
+  <circle class="drop drop6" cx="6" cy="2.8" r="9.2" />
+  <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
+</g>  
+
+<text font-family="Bebas Neue, Impact, sans-serif" font-size=".25em" fill="#b366ff"
+      font-weight="bold" letter-spacing="2" x="58" y="13" text-anchor="middle">
+  
+</text>
+
+<text x="58" y="15" font-family="Courier New" font-size=".12em" fill="#cc99ff"
+      text-anchor="middle" alignment-baseline="hanging" font-style="italic"> 
+  
+</text>
+
+<foreignObject x="2" y="18.5" width="110" height="5">
+  <div xmlns="http://www.w3.org/1999/xhtml" style="
+    font-family: Helvetica, sans-serif;
+    font-size: 2.5px;
+    color: #d9b3ff;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 1.5px;
+  ">
+    <span id="hiText"></span>
+    <span id="msgText"></span>
+  </div>
+</foreignObject>
+</svg>
+
