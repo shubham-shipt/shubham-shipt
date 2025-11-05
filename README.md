@@ -7,72 +7,100 @@
   </a>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/👤I%20AM-64328F?style=for-the-badge&logo=identity&logoColor=fff&labelWidth=120" height="44" alt="I AM Badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-181717?style=for-the-badge&logo=html5&logoColor=fff" alt="Web Developer" />
-  <img src="https://img.shields.io/badge/SEO%20Intern-181717?style=for-the-badge&logo=google&logoColor=fff" alt="SEO Intern" />
-  <img src="https://img.shields.io/badge/%2B%20Cyberser--Lerner-1976D2?style=for-the-badge&logo=plus&logoColor=FFFFFF" alt="Cyberser-Lerner" />
-  <img src="https://img.shields.io/badge/AI%20Prompt%20Engineer-10A37F?style=for-the-badge&logo=openai&logoColor=fff" alt="AI Prompt Engineer" />
-</p>
+<!-- 🌟 SHUBHAM-SHIPT PROFILE BADGES (Organized Layout) 🌟 -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Web Dev Animation" />
-</div>
-<p align="center" style="margin-top:18px;">
-<img src="https://img.shields.io/badge/EXPERTS-64328F?style=for-the-badge&logo=starship&logoColor=fff&labelWidth=120" height="44" alt="EXPERTS Badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/CHATGPT-10A37F?style=flat-pill&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/C++%20DSA-212121?style=flat-pill&logo=c%2B%2B&logoColor=fff" alt="C++ DSA" />
-  <img src="https://img.shields.io/badge/Bash%20Terminal-23272F?style=flat-pill&logo=gnubash&logoColor=fff" alt="Bash Terminal" />
-  <img src="https://img.shields.io/badge/HTML5-FF5733?style=flat-pill&logo=html5&logoColor=fff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-2965F1?style=flat-pill&logo=css3&logoColor=fff" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-FFDF00?style=flat-pill&logo=javascript&logoColor=23272F" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/KALI%20LINUX-121212?style=flat-pill&logo=kalilinux&logoColor=268BDA" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Social%20Phishing-FFD700?style=flat-pill&logo=redhat&logoColor=23272F" alt="Social Phishing" />
-  <img src="https://img.shields.io/badge/OSINT-764ABC?style=flat-pill&logo=apachekafka&logoColor=fff" alt="OSINT" />
-  <img src="https://img.shields.io/badge/Code%20Reviewer-764ABC?style=flat-pill&logo=github&logoColor=fff" alt="Code Reviewer" />
-</p>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Web Dev Animation" />
+
+<!-- ========== INTRO SECTION ========== -->
+<h2>👋 Hello, I'm <span style="color:#64328F;">Shubham</span></h2>
+
+<img src="https://img.shields.io/badge/👤I%20AM-64328F?style=for-the-badge&logo=identity&logoColor=fff&labelWidth=120" height="40" alt="I AM Badge" />
+
+<br><br>
+
+<!-- ========== PROFESSIONAL ROLES ========== -->
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Web%20Developer-181717?style=for-the-badge&logo=html5&logoColor=fff" alt="Web Developer" /></td>
+    <td><img src="https://img.shields.io/badge/SEO%20Intern-181717?style=for-the-badge&logo=google&logoColor=fff" alt="SEO Intern" /></td>
+    <td><img src="https://img.shields.io/badge/%2B%20Cybersec%20Learner-4B0082?style=for-the-badge&logo=linux&logoColor=fff" alt="Cybersec Learner" /></td>
+    <td><img src="https://img.shields.io/badge/AI%20Prompt%20Engineer-10A37F?style=for-the-badge&logo=openai&logoColor=fff" alt="AI Prompt Engineer" /></td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Web Dev Animation" />
+
+<!-- ========== EXPERTISE SECTION ========== -->
+<h2>⭐ Experts In</h2>
+<img src="https://img.shields.io/badge/EXPERTS-64328F?style=for-the-badge&logo=starship&logoColor=fff" height="40" />
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/CHATGPT-10A37F?style=flat-pill&logo=openai&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/C++%20DSA-212121?style=flat-pill&logo=c%2B%2B&logoColor=fff" /></td>
+    <td><img src="https://img.shields.io/badge/Bash%20Terminal-23272F?style=flat-pill&logo=gnubash&logoColor=fff" /></td>
+    <td><img src="https://img.shields.io/badge/HTML5-FF5733?style=flat-pill&logo=html5&logoColor=fff" /></td>
+    <td><img src="https://img.shields.io/badge/CSS3-2965F1?style=flat-pill&logo=css3&logoColor=fff" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/JAVASCRIPT-FFDF00?style=flat-pill&logo=javascript&logoColor=23272F" /></td>
+    <td><img src="https://img.shields.io/badge/KALI%20LINUX-121212?style=flat-pill&logo=kalilinux&logoColor=268BDA" /></td>
+    <td><img src="https://img.shields.io/badge/Social%20Phishing-FFD700?style=flat-pill&logo=redhat&logoColor=23272F" /></td>
+    <td><img src="https://img.shields.io/badge/OSINT-764ABC?style=flat-pill&logo=apachekafka&logoColor=fff" /></td>
+    <td><img src="https://img.shields.io/badge/Code%20Reviewer-764ABC?style=flat-pill&logo=github&logoColor=fff" /></td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Web Dev Animation" />
+
+<!-- ========== TOOLS SECTION ========== -->
+<h2>⚙️ Tools & Platforms</h2>
+<img src="https://img.shields.io/badge/TOOLS-64328F?style=for-the-badge&logo=toolforge&logoColor=fff" height="40" />
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-pill&logo=visualstudiocode&logoColor=fff" /></td>
+    <td><img src="https://img.shields.io/badge/GitHub-181717?style=flat-pill&logo=github&logoColor=fff" /></td>
+    <td><img src="https://img.shields.io/badge/Google%20Console-4285F4?style=flat-pill&logo=google&logoColor=fff" /></td>
+    <td><img src="https://img.shields.io/badge/Metasploit-3A3A3A?style=flat-pill&logo=metasploit&logoColor=fff" /></td>
+    <td><img src="https://img.shields.io/badge/Burp%20Suite-FF7139?style=flat-pill&logo=burpsuite&logoColor=fff" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-pill&logo=wireshark&logoColor=fff" /></td>
+    <td><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-pill&logo=tryhackme&logoColor=FF1C1C" /></td>
+    <td><img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat-pill&logo=huggingface&logoColor=fff" /></td>
+    <td><img src="https://img.shields.io/badge/Notion-000000?style=flat-pill&logo=notion&logoColor=fff" /></td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Web Dev Animation" />
+
+<!-- ========== PROFILE STATS SECTION ========== -->
+<h2>📊 GitHub Profile Stats</h2>
+<img src="https://img.shields.io/badge/PROFILE--STATS-64328F?style=for-the-badge&logo=bar-chart&logoColor=fff" height="40" />
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/shubham--shipt-23272F?style=flat-pill&logo=github&logoColor=FFD700" /></td>
+    <td><img src="https://komarev.com/ghpvc/?username=shubham-shipt&label=Profile%20views&color=0e75b6&style=flat" /></td>
+    <td><img src="https://img.shields.io/badge/Public%20Repos-10+-181717?style=flat-pill&logo=github&logoColor=FFD700" /></td>
+    <td><img src="https://img.shields.io/badge/Private%20Repos-32+-FFD43B?style=flat-pill&logo=github&logoColor=23272F" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Total%20Commits-3k%2B-34A853?style=flat-pill&logo=github&logoColor=fff" /></td>
+    <td><img src="https://img.shields.io/badge/Top%20Language-HTML-E44D26?style=flat-pill&logo=html5&logoColor=fff" /></td>
+    <td><img src="https://img.shields.io/badge/Active%20Days-365%2F256-FFD700?style=flat-pill&logo=github&logoColor=23272F" /></td>
+    <td><img src="https://img.shields.io/badge/Commit%20Time-Night%20Owl-23272F?style=flat-pill&logo=github&logoColor=FFD700" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Contribution%20Graph-70%25%20Green-34A853?style=flat-pill&logo=github&logoColor=fff" /></td>
+    <td><img src="https://img.shields.io/badge/GitHub%20User%20Since-2024-4B8BBE?style=flat-pill&logo=github&logoColor=fff" /></td>
+    <td><img src="https://img.shields.io/badge/Most%20Active%20Repo-Keylogv6-61DAFB?style=flat-pill&logo=github&logoColor=23272F" /></td>
+    <td><img src="https://img.shields.io/badge/Most%20Used%20IDE-VIM-007ACC?style=flat-pill&logo=visualstudiocode&logoColor=fff" /></td>
+  </tr>
+</table>
+
 </div>
 
-<p align="center" style="margin-top:18px;">
- <img src="https://img.shields.io/badge/⚙️ TOOLS-64328F?style=for-the-badge&logo=toolforge&logoColor=fff&labelWidth=120" height="44" alt="TOOLS Badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-pill&logo=visualstudiocode&logoColor=fff" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-pill&logo=github&logoColor=fff" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Google%20Search%20Console-4285F4?style=flat-pill&logo=google&logoColor=fff" alt="Google Search Console" />
-  <img src="https://img.shields.io/badge/Metasploit-3A3A3A?style=flat-pill&logo=metasploit&logoColor=fff" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF7139?style=flat-pill&logo=burpsuite&logoColor=fff" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-pill&logo=wireshark&logoColor=fff" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-pill&logo=tryhackme&logoColor=FF1C1C" alt="TryHackMe" />
-  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat-pill&logo=huggingface&logoColor=fff" alt="HuggingFace" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-pill&logo=notion&logoColor=fff" alt="Notion" />
-</p>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Web Dev Animation" />
-</div>
-
-<p align="center" style="margin-top:18px;">
-<img src="https://img.shields.io/badge/✌️ PROFILE--STATS-64328F?style=for-the-badge&logo=bar-chart&logoColor=fff&labelWidth=120" height="44" alt="PROFILE STATS Badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/shubham--shipt-23272F?style=flat-pill&logo=github&logoColor=FFD700" alt="GitHub Username" />
-  <img src="https://komarev.com/ghpvc/?username=shubham-shipt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Public%20Repos-10+-181717?style=flat-pill&logo=github&logoColor=FFD700" alt="Public Repos" />
-  <img src="https://img.shields.io/badge/Private%20Repos-32+-FFD43B?style=flat-pill&logo=github&logoColor=23272F" alt="Private Repos" />
-  <img src="https://img.shields.io/badge/Total%20Commits-3k%2B-34A853?style=flat-pill&logo=github&logoColor=fff" alt="Total Commits" />
-  <img src="https://img.shields.io/badge/Top%20Language-HTML-E44D26?style=flat-pill&logo=html5&logoColor=fff&labelColor=23272F" alt="Top Language: HTML" />
-  <img src="https://img.shields.io/badge/Active%20Days-365%2F256-FFD700?style=flat-pill&logo=github&logoColor=23272F" alt="Active Days" />
-  <img src="https://img.shields.io/badge/Commit%20Time-Night%20Owl-23272F?style=flat-pill&logo=github&logoColor=FFD700" alt="Commit Time" />
-  <img src="https://img.shields.io/badge/Contribution%20Graph-70%25%20Green-34A853?style=flat-pill&logo=github&logoColor=fff" alt="Contribution Graph" />
-  <img src="https://img.shields.io/badge/GitHub%20User%20Since-2024-4B8BBE?style=flat-pill&logo=github&logoColor=fff" alt="GitHub Since" />
-  <img src="https://img.shields.io/badge/Most%20Active%20Repo-Keylogv6-61DAFB?style=flat-pill&logo=github&logoColor=23272F" alt="Most Active Repo" />
-  <img src="https://img.shields.io/badge/Most%20Used%20IDE-VIM%20-007ACC?style=flat-pill&logo=visualstudiocode&logoColor=fff" alt="Most Used IDE" />
-</p>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Web Dev Animation" />
 </div>
