@@ -124,47 +124,9 @@ $ cat /etc/address | grep contact
   <img src="https://github-profile-trophy.vercel.app/?username=shubham-shipt&theme=algolia&no-frame=true&column=4&margin-w=20&margin-h=15" />
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
 
-## 🦾 About Me
 
-Hi, I'm <b style="color:#A259FF;font-family:'Space Grotesk', 'Fira Code', monospace;">Shubham</b>.<br>
-I'm learning web development and exploring cybersecurity. I enjoy coding, trying ethical hacking tools, and building small projects as I improve my skills step by step.
 
-- 🛡️ **Focus:** Ethical hacking, web development, cybersecurity fundamentals  
-- 🔬 **Interests:** Penetration testing, web security, CTF competitions, cloud security  
-- 💻 **Skills:** C/C++, Python, JavaScript, HTML/CSS, Web Development, Linux, Bash, GitHub, Git  
-- 🌐 **Communities:** Active in cybersecurity forums and open-source projects  
-- 🎓 **Learning:** Advancing in hacking, network security, and secure coding practices
-
-My mission is to become a <span style="color:#B98CFC;font-weight:bold">Hacker</span>.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
-
-## 🔒 C++ Code Example
-
-```cpp
-#include <iostream>
-const std::string RED   = "\033[1;31m";
-const std::string BLUE  = "\033[1;34m";
-const std::string PURPLE= "\033[1;35m";
-const std::string RESET = "\033[0m";
-int main() {
-    std::cout << RED   << "  ____   " << BLUE << "__  __ \n"
-              << RED   << " / __ \\  " << BLUE << "|  \\/  |\n"
-              << RED   << "| |  | | " << BLUE << "| \\  / |\n"
-              << RED   << "| |  | | " << BLUE << "| |\\/| |\n"
-              << RED   << "| |__| | " << BLUE << "| |  | |\n"
-              << RED   << " \\____/  " << BLUE << "|_|  |_|\n"
-              << PURPLE << "\n         ~ OM ~\n"
-              << RESET;
-    return 0;
-}
-```
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
