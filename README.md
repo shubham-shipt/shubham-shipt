@@ -194,31 +194,59 @@ $ cat /etc/address | grep contact
 
 ## 🚀 Projects
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/shubham-shipt/keylog-v12">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=keylog-v6&title_color=FF0080&icon_color=40FF9C&text_color=FFE6FF&bg_color=1e0f24,2a103b,3d1457&border_color=FF0080&border_radius=12" width="410" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shubham-shipt/Python-Mini-Projects">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=Python-Mini-Projects&title_color=00E5FF&icon_color=FFE066&text_color=E0FFFF&bg_color=0F2027,203A43,2C5364&border_color=00E5FF&border_radius=12&show_owner=false" width="410" />
+      </a>
+    </td>
+  </tr>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <a href="https://github.com/shubham-shipt/keylog-v12">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=keylog-v6&theme=github_dark&title_color=A259FF&icon_color=75C850&text_color=FFFFFF&bg_color=181820&border_color=A259FF&border_radius=10" width="400" />
-  </a>
-  <a href="https://github.com/shubham-shipt/Python-Mini-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=Python-Mini-Projects&theme=github_dark&title_color=A259FF&icon_color=75C850&text_color=FFFFFF&bg_color=181820&border_color=A259FF&border_radius=10" width="400" />
-  </a>
-  <a href="https://github.com/shubham-shipt/cs2-mvp-autochat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=cs2-mvp-autochat&theme=github_dark&title_color=A259FF&icon_color=75C850&text_color=FFFFFF&bg_color=181820&border_color=A259FF&border_radius=10" width="400" />
-  </a>
-  <a href="https://github.com/shubham-shipt/DailyDesk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=DailyDesk&theme=github_dark&title_color=A259FF&icon_color=75C850&text_color=FFFFFF&bg_color=181820&border_color=A259FF&border_radius=10" width="400" />
-  </a>
-  <a href="https://github.com/shubham-shipt/Cyber-Library">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=Cyber-Library&theme=github_dark&title_color=A259FF&icon_color=75C850&text_color=FFFFFF&bg_color=181820&border_color=A259FF&border_radius=10" width="400" />
-  </a>
-  <a href="https://github.com/shubham-shipt/Kali-Wall.sh">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=Kali-Wall.sh&theme=github_dark&title_color=A259FF&icon_color=75C850&text_color=FFFFFF&bg_color=181820&border_color=A259FF&border_radius=10" width="400" />
-  </a>
-  <a href="https://github.com/shubham-shipt/Shineword">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=Shineword&theme=github_dark&title_color=A259FF&icon_color=75C850&text_color=FFFFFF&bg_color=181820&border_color=A259FF&border_radius=10" width="400" />
-  </a>
+  <tr>
+    <td>
+      <a href="https://github.com/shubham-shipt/cs2-mvp-autochat">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=cs2-mvp-autochat&title_color=FEDA75&icon_color=FF4D4D&text_color=FFF7E6&bg_color=000000,2C2B30,3f3f46&border_color=FEDA75&border_radius=12" width="410" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shubham-shipt/DailyDesk">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=DailyDesk&title_color=7CFF6B&icon_color=00FFB3&text_color=E8FFE8&bg_color=0d1f0d,103b10,145214&border_color=7CFF6B&border_radius=12" width="410" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/shubham-shipt/Cyber-Library">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=Cyber-Library&title_color=00FFC6&icon_color=FF00EA&text_color=D7FFF9&bg_color=050505,1a1a2e,16213e&border_color=00FFC6&border_radius=12" width="410" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shubham-shipt/Kali-Wall.sh">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=Kali-Wall.sh&title_color=00C3FF&icon_color=FF4DA6&text_color=E6F9FF&bg_color=001019,002633,003D52&border_color=00C3FF&border_radius=12" width="410" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/shubham-shipt/Shineword">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubham-shipt&repo=Shineword&title_color=7AB6FF&icon_color=FFD86B&text_color=ECF4FF&bg_color=0d1b2a,1b263b,415a77&border_color=7AB6FF&border_radius=12" width="410" />
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
