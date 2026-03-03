@@ -5,7 +5,7 @@ import re
 today = datetime.utcnow()
 day_of_year = today.timetuple().tm_yday
 
-file_path = "./test.md"
+file_path = "README.md"
 
 with open(file_path, "r", encoding="utf-8") as f:
     content = f.read()
