@@ -151,7 +151,7 @@
       </td>
       <td align="center" style="padding:12px 10px; min-width:110px;">
         <a href="https://github.com/Olivia-35" style="text-decoration:none; color:#24292f;">
-          <img src="https://avatars.githubusercontent.com/u/230526455?v=4" width="80" style="border-radius:50%;" /><br/>
+          <img src="https://avatars.githubusercontent.com/u/230526455?u=80832a3c29f871ba3094c2c2d77decbeb582f3a9&v=4" width="80" style="border-radius:50%;" /><br/>
           <span style="display:inline-block; margin-top:8px; font-size:14px;">Olivia-35</span>
         </a>
       </td>
