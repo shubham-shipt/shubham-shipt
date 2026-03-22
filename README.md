@@ -138,6 +138,12 @@
   <table align="center" style="border-collapse:separate; border-spacing:0;">
     <tr>
       <td align="center" style="padding:12px 10px; min-width:110px;">
+        <a href="https://github.com/Gauravv504" style="text-decoration:none; color:#24292f;">
+          <img src="https://avatars.githubusercontent.com/u/256964790?v=4" width="80" style="border-radius:50%;" /><br/>
+          <span style="display:inline-block; margin-top:8px; font-size:14px;">Gauravv504</span>
+        </a>
+      </td>
+      <td align="center" style="padding:12px 10px; min-width:110px;">
         <a href="https://github.com/android-tst" style="text-decoration:none; color:#24292f;">
           <img src="https://avatars.githubusercontent.com/u/242031210?u=d4473e00779fc049356844c0a7c768bd17534259&v=4" width="80" style="border-radius:50%;" /><br/>
           <span style="display:inline-block; margin-top:8px; font-size:14px;">android-tst</span>
@@ -167,14 +173,14 @@
           <span style="display:inline-block; margin-top:8px; font-size:14px;">Olivia-35</span>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center" style="padding:12px 10px; min-width:110px;">
         <a href="https://github.com/Cross565" style="text-decoration:none; color:#24292f;">
           <img src="https://avatars.githubusercontent.com/u/230525053?u=ae3e6d67c7f6b6989331a58af7ee4edcf5ab348a&v=4" width="80" style="border-radius:50%;" /><br/>
           <span style="display:inline-block; margin-top:8px; font-size:14px;">Cross565</span>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center" style="padding:12px 10px; min-width:110px;">
         <a href="https://github.com/Priya-tanue" style="text-decoration:none; color:#24292f;">
           <img src="https://avatars.githubusercontent.com/u/230461677?v=4" width="80" style="border-radius:50%;" /><br/>
@@ -205,14 +211,14 @@
           <span style="display:inline-block; margin-top:8px; font-size:14px;">IshaJaswal04</span>
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center" style="padding:12px 10px; min-width:110px;">
         <a href="https://github.com/PriyanshuJayant" style="text-decoration:none; color:#24292f;">
           <img src="https://avatars.githubusercontent.com/u/126499556?u=40c9ce557bb016c50f46bfad08e0418f5e34a071&v=4" width="80" style="border-radius:50%;" /><br/>
           <span style="display:inline-block; margin-top:8px; font-size:14px;">PriyanshuJayant</span>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center" style="padding:12px 10px; min-width:110px;">
         <a href="https://github.com/seo-shu" style="text-decoration:none; color:#24292f;">
           <img src="https://avatars.githubusercontent.com/u/220474657?v=4" width="80" style="border-radius:50%;" /><br/>
